@@ -6,7 +6,7 @@ Wir wollen mit JavaScript eine Zufallszahl zwischen **1** und **6** generieren, 
 Für jede gewürfelte Augenzahl soll ein Zitat von Goethe in der Konsole ausgegeben werden.
 
 ### Teil 1
-Erstelle mit der `Math` Bibliothek eine Zufallszahl und lege sie in einer Konstanten ab.
+Erstelle mit der `Math` Bibliothek eine Zufallszahl zwischen **1** und **6** und lege sie in einer Konstanten ab.
 
 ### Teil 2
 Schreibe nun ein `if` Statement für die Augenzahl **1**.
