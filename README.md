@@ -1,7 +1,7 @@
 # JS-Fallabfrage-Segment-1
 
 ## Aufgabenstellung
-Wir wollen mit JavaScript eine Zufallszahl generieren.
+Wir wollen mit JavaScript eine Zufallszahl zwischen **1** und **6** generieren, und damit ein Würfelspiel schreiben.
 
 Für jede gewürfelte Augenzahl soll ein Zitat von Goethe in der Konsole ausgegeben werden.
 
