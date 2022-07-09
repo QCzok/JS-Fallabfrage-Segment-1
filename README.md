@@ -9,14 +9,14 @@ Für jede gewürfelte Augenzahl soll ein Zitat von Goethe in der Konsole ausgege
 Erstelle mit der `Math` Bibliothek eine Zufallszahl und lege sie in einer Konstanten ab.
 
 ### Teil 2
-Schreibe nun ein `if` Statement für die Augenzahl *1*.
+Schreibe nun ein `if` Statement für die Augenzahl **1**.
 
 In diesem Fall wird folgender Text in die Konsole geschrieben: _Man reist ja nicht um anzukommen, sondern um zu reisen._
 
 ### Teil 3
 Mache nun mit der zweiten Augenzahl weiter.
 
-Schreibe wieder ein `if` Statement, diesmal für die Augenzahl *2*.
+Schreibe wieder ein `if` Statement, diesmal für die Augenzahl **2**.
 
 In diesem Fall wird folgender Text in die Konsole geschrieben: _Was nicht angefangen ist, wird niemals fertig werden._
 
